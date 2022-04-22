@@ -12421,7 +12421,7 @@
     </style>
 </head>
 
-<body id="page-top" style="background: url(https://www.kezakoo.com/sup/wp-content/uploads/2019/02/compus-ensaj.jpg);background-position: center;">
+<body id="page-top" style="background: url(https://www.kezakoo.com/sup/wp-content/uploads/2019/02/compus-ensaj.jpg);background-position: center;background-position: top left;background-size: cover;background-repeat: no-repeat;">
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <div class="container px-4 px-lg-5">
